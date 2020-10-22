@@ -37,7 +37,7 @@ variables.
 
 ## Web
 
-A simple express application exposing a single endpoint: ~/fetch_products~ and its apiDoc to showcase
+A simple express application exposing a single endpoint: */fetch_products* and its apiDoc to showcase
 the scrapper capabilities.
 
 ## Extra
